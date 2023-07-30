@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comparador de textos</string>
+    <string name="input1"></string>
+    <string name="input2"></string>
+    <string name="lbl"></string>
+    <string name="button">Comparar</string>
+    <string name="hint1">Ingresar primer texto a comparar</string>
+    <string name="hint2">Ingresar segundo texto a comparar</string>
+</resources>
